@@ -1,13 +1,13 @@
 <template>
-  <div class="Home">
-    <h1>Home</h1>
+  <div class="home">
+    <h1>home</h1>
     <h1>This is Home Page</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Home',
+  name: 'home_view',
   data() {
     return {
       msg: 'This is the Home page.'

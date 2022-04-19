@@ -1,5 +1,5 @@
 <template>
-  <div class="Blog">
+  <div class="blog">
     <h1>{{Blog}}</h1>
     <h1>BLOG PAGE</h1>
   </div>
@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'Blog',
+  name: 'blog_view',
   data() {
     return {
       title: 'Blog Page'

@@ -1,13 +1,13 @@
 <template>
-  <div class="Contact">
-    <h1>{{Contact}}</h1>
+  <div class="contact">
+    <h1>{{contact}}</h1>
     <h1>Contact Page</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Contact',
+  name: 'contact_view',
   data() {
     return {
       title: 'Contact Page'

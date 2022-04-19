@@ -1,26 +1,26 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from '@/views/Home'
-import Blog from '@/views/Blog'
-import Contact from '@/components/Contact'
+import home from '@/views/home'
+import blog from '@/views/blog'
+import contact from '@/views/contact'
 
 Vue.use(Router)
 export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Home',
-      views: Home
+      name: 'home_view',
+      views: home
     },
     {
       path: '/vue.js_management1/production/blog',
-      name: 'Blog',
-      views: Blog
+      name: 'blog_view',
+      views: blog
     },
     {
       path: '/vue.js_management1/production/contact',
-      name: 'Contact',
-      views: Contact
+      name: 'contact_view',
+      views: contact
     }
   ]
 })
