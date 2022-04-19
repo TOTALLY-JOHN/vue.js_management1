@@ -4,5 +4,5 @@ module.exports = defineConfig({
 })
 
 module.exports = {
-  publicPath: '/production',
+  publicPath: '/vue.js_management1/production',
 }
