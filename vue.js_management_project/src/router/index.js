@@ -13,12 +13,12 @@ export default new Router({
       views: Home
     },
     {
-      path: '/blog',
+      path: '/vue.js_management1/blog',
       name: 'Blog',
       views: Blog
     },
     {
-      path: '/contact',
+      path: '/vue.js_management1/contact',
       name: 'Contact',
       views: Contact
     }
