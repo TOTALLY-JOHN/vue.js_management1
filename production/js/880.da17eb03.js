@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_js_management_project"]=self["webpackChunkvue_js_management_project"]||[]).push([[880],{880:function(e,n,r){r.r(n),r.d(n,{default:function(){return s}});var t=r(252);function u(e,n){return(0,t.wg)(),(0,t.iD)("p",null,"Unfortunately, 404 error")}var a=r(744);const c={},o=(0,a.Z)(c,[["render",u]]);var s=o}}]);
+//# sourceMappingURL=880.da17eb03.js.map
